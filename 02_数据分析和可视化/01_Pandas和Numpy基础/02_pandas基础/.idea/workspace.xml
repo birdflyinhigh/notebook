@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c17e64f6-4d75-42b7-9b9e-5c67b0f77ceb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_data_clean.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/02_pandas基础.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/02_pandas基础.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_data_clean.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03_data_clean.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +44,7 @@
     <session id="586446568">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.opened" value="3" />
         </counts>
